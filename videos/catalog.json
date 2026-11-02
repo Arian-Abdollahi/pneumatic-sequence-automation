@@ -1,0 +1,18 @@
+[
+  {
+    "id": "01_wood_processing",
+    "title": "Wood-processing cylinder sequence",
+    "suggested_filename": "01_wood_processing.mp4",
+    "repository_path": null,
+    "video_url": null,
+    "status": "awaiting_upload"
+  },
+  {
+    "id": "02_ferrous_part_transfer",
+    "title": "Ferrous-part transfer sequence",
+    "suggested_filename": "02_ferrous_part_transfer.mp4",
+    "repository_path": null,
+    "video_url": null,
+    "status": "awaiting_upload"
+  }
+]

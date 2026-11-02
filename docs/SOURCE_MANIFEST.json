@@ -1,0 +1,48 @@
+{
+  "project": "pneumatic-sequence-automation",
+  "original_files": [
+    {
+      "source_name": "midterm-1.ct",
+      "path": "circuits/01_wood_processing.ct",
+      "bytes": 26725,
+      "sha256": "3fa0162c07b0e8bc0b422e7e503bdb33c99c19c7aa4fd8ce472d7e98092ccdf0"
+    },
+    {
+      "source_name": "midterm_2.ct",
+      "path": "circuits/02_ferrous_part_transfer.ct",
+      "bytes": 27295,
+      "sha256": "4bc8f09083a644ac0b8138734b1448ea2ac62f61c33e2acf56418182269ef6df"
+    },
+    {
+      "source_name": "1.jpg",
+      "path": "assets/wood_sequence_whiteboard.jpg",
+      "bytes": 131235,
+      "sha256": "a52c4fb11480a35d4be421c4551c96d46f892f882f77cce5d13e3469540e63d6"
+    },
+    {
+      "source_name": "2.jpg",
+      "path": "assets/transfer_sequence_whiteboard.jpg",
+      "bytes": 55335,
+      "sha256": "c3aea01a80b134b97d24e93c382c335880fdf31f0de215c156ef1f2b9d5eecec"
+    }
+  ],
+  "report": {
+    "source_name": "گزارش.pdf",
+    "source_sha256": "4a859bb459da52a00f4d12374d4986c9fe135afe49c04e3c12b8e51c8643ed5e",
+    "source_pages_one_based": [
+      3,
+      8
+    ],
+    "source_cover_and_combined_contents_omitted": true
+  },
+  "unavailable_attachment": {
+    "name": "Industrial_Control(1).pdf",
+    "read_or_used": false
+  },
+  "videos": {
+    "supplied_files": 0,
+    "prepared_slots": 2,
+    "status": "awaiting_upload"
+  },
+  "runtime": "Circuit/PLC applications were not available; source materials were reviewed without new simulation."
+}
